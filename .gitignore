@@ -28,6 +28,7 @@ hs_err_pid*
 *.iml
 logs
 target
+out
 dependency-reduced-pom.xml
 stanford-corenlp-3.7.0-models.jar
 temp
