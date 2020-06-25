@@ -11,3 +11,7 @@
 * 3.Project Structure -> Artifacts配置Web exploded，并将maven依赖的包导入WEB-INF/lib目录下
 * 4.Run -> Edit Configurations -> 配置本地的tomcat
 * 5.在webapp下新建index.html并启动tomcat
+
+## 版本
+
+* [1.0.0](src/main/resources/iteration/1/1.0.0.md)
